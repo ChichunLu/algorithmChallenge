@@ -1,1 +1,1 @@
-# algorithmChallenge
+# Algorithm Challenge
